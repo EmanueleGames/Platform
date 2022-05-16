@@ -1,4 +1,4 @@
-# Platform
+# Jumps & Coins
 <br/>
 
 ## Development
@@ -6,19 +6,21 @@
 **Language:** &nbsp;&nbsp; C++  
 **Libraries:** &nbsp;&nbsp;&nbsp;&nbsp; SDL2 (Simple DirectMedia Layer)
 <br/>
-> Tetris 2D videogame.  
+> Platform 2D videogame.  
 > Multiple scene implemented with Object Oriented State Machine:  
 > inheritance, polymorphism, operator overloading.  
-> Single Player, increasing difficulty.  
+> Single Player, multiple stages with increasing difficulty.  
 > Keyboard control movement, multiple collision detection.  
+> File writing and file reading to implement saves.
+> Stages implemented with customizable tiling.
 > Multiple source files. 1280x720 pixels resolution.  
 
 
 ## Features
-* Triple scene game: title, game, match over
+* Triple scene game with multiple stages: title, game (stage 1 2 and 3), game over
 * Single player mode, increasing difficulty
-* Z and X keys for piece rotation
-* Spacebar, Left, Right, Down arrow keys for movement
+* Left and Right Arrows for movement
+* Up Arrow for jumping
 * Multiple collision detection
 * Basic music & sound effects
 * VSync enabled
