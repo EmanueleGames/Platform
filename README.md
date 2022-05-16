@@ -11,8 +11,8 @@
 > inheritance, polymorphism, operator overloading.  
 > Single Player, multiple stages with increasing difficulty.  
 > Time (not frame) based movement, multiple collision detection.  
-> File writing and file reading to implement saves.
-> Stages implemented with customizable tiling.
+> File writing and file reading to implement saves.  
+> Stages implemented with customizable tiling.  
 > Multiple source files. 1280x720 pixels resolution.  
 
 
