@@ -18,7 +18,7 @@
 
 ## Features
 * Triple scene game with multiple stages: title, game (stage 1 2 and 3), game over
-* Single player mode, increasing difficulty
+* Single player mode, three stages with increasing difficulty
 * Left and Right Arrows for movement
 * Up Arrow for jumping
 * Basic music & sound effects
