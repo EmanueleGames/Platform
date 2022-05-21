@@ -40,14 +40,14 @@
 * Inside these file there are the maps for the entire stages
 * You can freely customize these files as you like, just follow the format and use valid tile codes
 
-My advice, however, is to edit your levels using the spreadsheet included in the project.  
-It's much easier to work this way and the effect of your changes is much more direct and understandable.  
-Open the spreadsheet and you will find one sheet for each stage, each cell represent a tile:  
+> My advice, however, is to edit your levels using the spreadsheet included in the project.  
+> It's much easier to work this way and the effect of your changes is much more direct and understandable.  
+> Open the spreadsheet and you will find one sheet for each stage, each cell represent a tile:  
   
 ![image](https://user-images.githubusercontent.com/88102377/169651515-5b4b144c-2eea-4462-8a1e-27a5d8284408.png)
   
-The color is not relevant, it is just used to give a better prospective of the layout.  
-The only data that matters is the code inside every cell:  
+> The color is not relevant, it is just used to give a better prospective of the layout.  
+> The only data that matters is the code inside every cell:  
 
 empty				00						coin				06
 earth				01										
@@ -57,9 +57,9 @@ brick_dark	04						flagpole			14
 spike				05										
 
 
-You can now edit the file as you like. When you're done just export the file as `.csv`
-Open it with any text editor and replace every ";" with a blank space " "  
-Finally copy the rows in one of the file .map that you want to replace and you'ew good to go  
+> You can now edit the file as you like. When you're done just export the file as `.csv`
+> Open it with any text editor and replace every ";" with a blank space " "  
+> Finally copy the rows in one of the file .map that you want to replace and you'ew good to go  
 
 <br/>
 <br/>
