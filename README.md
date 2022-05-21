@@ -34,4 +34,3 @@
 <br/>
 
 `Code is a little over-commented just to help anyone interested to navigate it better`  
-`The Music and the Font are both a tribute to the 1990 Gameboy Tetris`
