@@ -2,7 +2,7 @@
 <br/>
 
 <p align="center">
-  <img src="http://emanuelecarrino.altervista.org/images/portfolio/platform_1280x720.png" />
+  <img src="http://emanuelecarrino.altervista.org/images/portfolio/tetris_1280x720.png" />
 </p>
 <br/>
 
