@@ -38,7 +38,7 @@
 * The stages are realized with a tiling system.
 * In the `data` folder you can find 3 files: `stage1.map`  `stage2.map`  `stage3.map`
 * Inside these file there are the maps for the entire stages
-* You can freely customize these file as you like, just follow the format and use valid tile codes
+* You can freely customize these files as you like, just follow the format and use valid tile codes
 
 My advice, however, is to customize your levels using the spreadsheet included in the project  
 It's much easier to work this way and the effect of your changes is much more direct and understandable  
