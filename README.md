@@ -1,6 +1,6 @@
 # Jumps & Coins
 <br/>
-
+curl -X PURGE http://emanuelecarrino.altervista.org/images/portfolio/platform_1280x720.png
 <p align="center">
   <img src="http://emanuelecarrino.altervista.org/images/portfolio/platform_1280x720.png" />
 </p>
