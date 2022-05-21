@@ -1,11 +1,11 @@
 # Jumps & Coins
 <br/>
-<!--START_SECTION:update_image-->
+
 <p align="center">
   <img src="http://emanuelecarrino.altervista.org/images/portfolio/platform_1280x720.png" />
 </p>
 <br/>
-<!--END_SECTION:update_image-->
+
 ## Development
 **IDE:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Microsoft Visual Studio  
 **Language:** &nbsp;&nbsp; C++  
