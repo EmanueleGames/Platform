@@ -59,7 +59,7 @@ spike				05
 
 > You can now edit the file as you like. When you're done just export the file as `.csv`  
 > Open it with any text editor and replace every ";" with a blank space " "  
-> Finally copy the rows in one of the file .map that you want to replace and you'ew good to go  
+> Finally copy the rows in one of the file .map that you want to replace and you're good to go  
 
 <br/>
 <br/>
