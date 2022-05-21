@@ -36,7 +36,7 @@
 
 ## Customizable Stages
 * The stages are realized with a tiling system.
-* In the `data` folder you can find 3 files: stage1.map stage2.map stage3.map
+* In the `data` folder you can find 3 files: `stage1.map`  `stage2.map`  `stage3.map`
 * Inside these file there are the maps for the entire stages
 * You can freely customize these file as you like, just follow the format and use valid tile codes
 
