@@ -48,6 +48,14 @@ Open the spreadsheet and you will find one sheet for each stage, each cell repre
 The color is not relevant, it is just used to give a better prospective of the layout  
 The only data that matters is the code inside every cell  
 
+empty				00						coin				06
+earth				01										
+grass				02						flagend				12
+brick				03						flagcp				13
+brick_dark	04						flagpole			14
+spike				05										
+
+
 You can now edit the file as you like. When you're done just export the file as .CSV  
 Open it with any text editor and replace the ";" with a blank space " "  
 Finally copy the rows in one of the file .map that you want to replace and you'ew good to go  
