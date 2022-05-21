@@ -15,7 +15,7 @@
 > Multiple scene implemented with Object Oriented State Machine:  
 > inheritance, polymorphism, operator overloading.  
 > Single Player, multiple stages with increasing difficulty.  
-> Time based movement (frame indipendent movement), multiple collision detection.  
+> Time based movement (frame indipendent), multiple collision detection.  
 > File writing and file reading to implement saves.  
 > Stages designed with customizable tiling.  
 > Multiple source files. 1280x720 pixels resolution.  
