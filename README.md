@@ -48,16 +48,15 @@
   
 > The color is not relevant, it is just used to give a better prospective of the layout.  
 > The only data that matters is the code inside every cell:  
-<div>
+<div display ="flex">
 <img align="left" src="https://user-images.githubusercontent.com/88102377/169842473-5d66d0e1-bac5-42e5-a742-d17cc75aefee.png"><p align="left"> `01` </p>
 </div>
-<div>
+<div display ="flex">
 <img align="left" src="https://user-images.githubusercontent.com/88102377/169850543-4028d58d-93ae-4fe6-87e3-d10074f3ffc4.png"><p align="left"> `02` </p>
 </div>
-<div>
+<div display ="flex">
 <img align="left" src="https://user-images.githubusercontent.com/88102377/169850288-c57e448f-7abf-4adc-a1d2-5e7ceb4e3456.png"><p align="left"> `03` </p>
 </div>
-<div>
 <img align="left" src="https://user-images.githubusercontent.com/88102377/169850304-73fbe59a-a557-4389-a8d4-9db72ce8c279.png"><p align="left"> `04` </p>
 <img align="left" src="https://user-images.githubusercontent.com/88102377/169848922-f72913aa-c8e0-4301-9613-00655d39d21f.png"><p align="left"> `05` </p>
 <img align="left" src="https://user-images.githubusercontent.com/88102377/169848937-939414ca-3329-47ac-a97d-32a94c3aa7ea.png"><p align="left"> `06` </p>
