@@ -51,7 +51,7 @@
 
 <table><tr><td valign="center"><img src="https://user-images.githubusercontent.com/88102377/169842473-5d66d0e1-bac5-42e5-a742-d17cc75aefee.png"> 01 </td></tr></table>
 
-![terrain2](https://user-images.githubusercontent.com/88102377/169842473-5d66d0e1-bac5-42e5-a742-d17cc75aefee.png) <p align="center">
+![terrain2](https://user-images.githubusercontent.com/88102377/169842473-5d66d0e1-bac5-42e5-a742-d17cc75aefee.png) <p margin="auto">
     `01`
 </p>
 
