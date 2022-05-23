@@ -48,13 +48,13 @@
   
 > The color is not relevant, it is just used to give a better prospective of the layout.  
 > The only data that matters is the code inside every cell:  
-<div display ="flex">
+<div display ="flex" flex-direction="row">
 <img align="left" src="https://user-images.githubusercontent.com/88102377/169842473-5d66d0e1-bac5-42e5-a742-d17cc75aefee.png">`01`
 </div>
-<div display ="flex">
+<div display ="flex" flex-direction="row">
 <img align="left" src="https://user-images.githubusercontent.com/88102377/169850543-4028d58d-93ae-4fe6-87e3-d10074f3ffc4.png">`02`
 </div>
-<div display ="flex">
+<div display ="flex" flex-direction="row">
 <img align="left" src="https://user-images.githubusercontent.com/88102377/169850288-c57e448f-7abf-4adc-a1d2-5e7ceb4e3456.png">`03`
 </div>
 <img align="left" src="https://user-images.githubusercontent.com/88102377/169850304-73fbe59a-a557-4389-a8d4-9db72ce8c279.png">`04`
