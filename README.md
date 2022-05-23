@@ -60,6 +60,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/88102377/169849000-1867815a-9e9b-487c-b053-b086a992e04a.png"><p align="left"> `14` </p> 
 
 <br/>
+
 > You can now edit the file as you like. When you're done just export the file as `.csv`  
 > Open it with any text editor and replace every `";"` with a blank space `" "`  
 > Finally replace the rows in the file `.map` relative to the desired stage and you're good to go!  
