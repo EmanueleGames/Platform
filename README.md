@@ -49,7 +49,8 @@
 > The color is not relevant, it is just used to give a better prospective of the layout.  
 > The only data that matters is the code inside every cell:  
 
-<p vertical-align="middle"> <img src="https://user-images.githubusercontent.com/88102377/169842473-5d66d0e1-bac5-42e5-a742-d17cc75aefee.png"> 01 </p>
+<x class="FancyText">king</x> of the world.
+<div vertical-align="middle"> <img src="https://user-images.githubusercontent.com/88102377/169842473-5d66d0e1-bac5-42e5-a742-d17cc75aefee.png"> 01 </div>
 
 empty				00						coin				06
 earth				01										
