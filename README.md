@@ -31,11 +31,11 @@
 ## Save File
 * Make sure to extract the game in a folder where you can create files
 * The game autosaves  in a binary file at the start of each stage (not checkpoints!)
-* In the file is stored the starting stage, lives, coins and score
+* The info stored in the file are: starting stage, lives, coins and score
 * If you want to delete the savefile, you can find it in the `data` folder 
 
 ## Customizable Stages
-* The stages are realized with a tiling system.
+* The stages are realized with a tiling system
 * In the `data` folder you can find 3 files: `stage1.map`  `stage2.map`  `stage3.map`
 * Inside these file there are the maps for the entire stages
 * You can freely customize these files as you like, just follow the format and use valid tile codes
@@ -58,8 +58,8 @@ spike				05
 
 
 > You can now edit the file as you like. When you're done just export the file as `.csv`  
-> Open it with any text editor and replace every ";" with a blank space " "  
-> Finally copy the rows in one of the file .map that you want to replace and you're good to go!  
+> Open it with any text editor and replace every `";"` with a blank space `" "`  
+> Finally replace the rows in the file `.map` relative to the desired stage and you're good to go!  
 
 <br/>
 <br/>
