@@ -51,7 +51,7 @@
 
 
 <div vertical-align="middle"> <img src="https://user-images.githubusercontent.com/88102377/169842473-5d66d0e1-bac5-42e5-a742-d17cc75aefee.png">
-  <span margin="auto">01</span>
+  <span margin-top="0px">01</span>
 </div>
 
 empty				00						coin				06
