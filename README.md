@@ -59,6 +59,13 @@
 <img align="left" src="https://user-images.githubusercontent.com/88102377/169848995-2349ae62-b0e3-4bae-bcc9-c3f7eb02c74b.png"> `13`
 <img align="left" src="https://user-images.githubusercontent.com/88102377/169849000-1867815a-9e9b-487c-b053-b086a992e04a.png"> `14`
 
+<table>
+  <tr>
+    <td valign="top"><img src="https://user-images.githubusercontent.com/88102377/169842473-5d66d0e1-bac5-42e5-a742-d17cc75aefee.png"/></td>
+    <td valign="top"><img src="https://user-images.githubusercontent.com/88102377/169850543-4028d58d-93ae-4fe6-87e3-d10074f3ffc4.png"/></td>
+  </tr>
+</table>
+
 <br/>
 
 > You can now edit the file as you like. When you're done just export the file as `.csv`  
