@@ -49,7 +49,7 @@
 > The color is not relevant, it is just used to give a better prospective of the layout.  
 > The only data that matters is the code inside every cell:  
 
-<table><tr><td valign="center"><img src="https://user-images.githubusercontent.com/88102377/169842473-5d66d0e1-bac5-42e5-a742-d17cc75aefee.png" /> 01 </td></tr></table>
+<table><tr><td valign="center"><img src="https://user-images.githubusercontent.com/88102377/169842473-5d66d0e1-bac5-42e5-a742-d17cc75aefee.png"> 01 </td></tr></table>
 
 ![terrain2](https://user-images.githubusercontent.com/88102377/169842473-5d66d0e1-bac5-42e5-a742-d17cc75aefee.png) `01`
 
