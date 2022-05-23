@@ -50,7 +50,7 @@
 > The only data that matters is the code inside every cell:  
 
 
-<img align="left" src="https://user-images.githubusercontent.com/88102377/169842473-5d66d0e1-bac5-42e5-a742-d17cc75aefee.png"> 01
+<img align="left" src="https://user-images.githubusercontent.com/88102377/169842473-5d66d0e1-bac5-42e5-a742-d17cc75aefee.png"> <span margin="auto"> 01 </span>
 
 empty				00						coin				06
 earth				01										
