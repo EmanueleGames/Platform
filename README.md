@@ -51,7 +51,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img align="left" src=""/><b> 00 </b></td>
+    <td valign="top"><b align="left">  </b><b> 00 </b></td>
     <td valign="top"><img align="left" src="https://user-images.githubusercontent.com/88102377/169842473-5d66d0e1-bac5-42e5-a742-d17cc75aefee.png"/><b> 01 </b></td>
     <td valign="top"><img align="left" src="https://user-images.githubusercontent.com/88102377/169850543-4028d58d-93ae-4fe6-87e3-d10074f3ffc4.png"/><b> 02 </b></td>
     <td valign="top"><img align="left" src="https://user-images.githubusercontent.com/88102377/169850288-c57e448f-7abf-4adc-a1d2-5e7ceb4e3456.png"/><b> 03 </b></td>
