@@ -49,7 +49,7 @@
 > The color is not relevant, it is just used to give a better prospective of the layout.  
 > The only data that matters is the code inside every cell:  
 
-<table style="background-color: none;">
+<table background-color="none">
   <tr>
     <td valign="top"><img align="left" src="https://user-images.githubusercontent.com/88102377/169857874-e12e82f6-836f-4e50-9d26-69e8c5a99b7e.png"/><b> 00 </b></td>
     <td valign="top"><img align="left" src="https://user-images.githubusercontent.com/88102377/169842473-5d66d0e1-bac5-42e5-a742-d17cc75aefee.png"/><b> 01 </b></td>
