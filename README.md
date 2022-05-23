@@ -40,7 +40,7 @@
 * Inside these file there are the maps for the entire stages
 * You can freely customize these files as you like, just follow the format and use valid tile codes
 
-> My advice, however, is to edit your levels using the spreadsheet included in the project.  
+> My advice, however, is to edit your levels using the spreadsheet `map_editor.xlsx` included in the project.  
 > It's much easier to work this way and the effect of your changes is much more direct and understandable.  
 > Open the spreadsheet and you will find one sheet for each stage, each cell represents a tile:  
   
