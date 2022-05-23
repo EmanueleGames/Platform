@@ -59,16 +59,6 @@
 <img align="left" src="https://user-images.githubusercontent.com/88102377/169848995-2349ae62-b0e3-4bae-bcc9-c3f7eb02c74b.png"><p align="left"> `13` </p> 
 <img align="left" src="https://user-images.githubusercontent.com/88102377/169849000-1867815a-9e9b-487c-b053-b086a992e04a.png"><p align="left"> `14` </p> 
 
-	
-
-empty				00						coin				06
-earth				01										
-grass				02						flagend				12
-brick				03						flagcp				13
-brick_dark	04						flagpole			14
-spike				05										
-
-
 > You can now edit the file as you like. When you're done just export the file as `.csv`  
 > Open it with any text editor and replace every `";"` with a blank space `" "`  
 > Finally replace the rows in the file `.map` relative to the desired stage and you're good to go!  
