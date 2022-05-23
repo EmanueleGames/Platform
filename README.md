@@ -49,15 +49,15 @@
 > The color is not relevant, it is just used to give a better prospective of the layout.  
 > The only data that matters is the code inside every cell:  
 
-<img align="left" src="https://user-images.githubusercontent.com/88102377/169842473-5d66d0e1-bac5-42e5-a742-d17cc75aefee.png">  `01` 
-<img align="left" src="https://user-images.githubusercontent.com/88102377/169850543-4028d58d-93ae-4fe6-87e3-d10074f3ffc4.png">  `02` 
-<img align="left" src="https://user-images.githubusercontent.com/88102377/169850288-c57e448f-7abf-4adc-a1d2-5e7ceb4e3456.png">  `03` 
-<img align="left" src="https://user-images.githubusercontent.com/88102377/169850304-73fbe59a-a557-4389-a8d4-9db72ce8c279.png">  `04` 
-<img align="left" src="https://user-images.githubusercontent.com/88102377/169848922-f72913aa-c8e0-4301-9613-00655d39d21f.png">  `05` 
-<img align="left" src="https://user-images.githubusercontent.com/88102377/169848937-939414ca-3329-47ac-a97d-32a94c3aa7ea.png">  `06` 
-<img align="left" src="https://user-images.githubusercontent.com/88102377/169848986-cd89ec1e-5d64-4879-99e2-55fa775e8ee9.png">  `12` 
-<img align="left" src="https://user-images.githubusercontent.com/88102377/169848995-2349ae62-b0e3-4bae-bcc9-c3f7eb02c74b.png">  `13` 
-<img align="left" src="https://user-images.githubusercontent.com/88102377/169849000-1867815a-9e9b-487c-b053-b086a992e04a.png">  `14` 
+<img align="left" src="https://user-images.githubusercontent.com/88102377/169842473-5d66d0e1-bac5-42e5-a742-d17cc75aefee.png"> <p align="left">  `01` </p>
+<img align="left" src="https://user-images.githubusercontent.com/88102377/169850543-4028d58d-93ae-4fe6-87e3-d10074f3ffc4.png"> <p align="left">  `02` </p>
+<img align="left" src="https://user-images.githubusercontent.com/88102377/169850288-c57e448f-7abf-4adc-a1d2-5e7ceb4e3456.png"> <p align="left">  `03` </p>
+<img align="left" src="https://user-images.githubusercontent.com/88102377/169850304-73fbe59a-a557-4389-a8d4-9db72ce8c279.png"> <p align="left">  `04` </p>
+<img align="left" src="https://user-images.githubusercontent.com/88102377/169848922-f72913aa-c8e0-4301-9613-00655d39d21f.png"> <p align="left">  `05` </p>
+<img align="left" src="https://user-images.githubusercontent.com/88102377/169848937-939414ca-3329-47ac-a97d-32a94c3aa7ea.png"> <p align="left">  `06` </p>
+<img align="left" src="https://user-images.githubusercontent.com/88102377/169848986-cd89ec1e-5d64-4879-99e2-55fa775e8ee9.png"> <p align="left">  `12` </p>
+<img align="left" src="https://user-images.githubusercontent.com/88102377/169848995-2349ae62-b0e3-4bae-bcc9-c3f7eb02c74b.png"> <p align="left">  `13` </p>
+<img align="left" src="https://user-images.githubusercontent.com/88102377/169849000-1867815a-9e9b-487c-b053-b086a992e04a.png"> <p align="left">  `14` </p>
 
 	
 
