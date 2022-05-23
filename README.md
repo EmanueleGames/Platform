@@ -42,7 +42,7 @@
 
 > My advice, however, is to edit your levels using the spreadsheet included in the project.  
 > It's much easier to work this way and the effect of your changes is much more direct and understandable.  
-> Open the spreadsheet and you will find one sheet for each stage, each cell represent a tile:  
+> Open the spreadsheet and you will find one sheet for each stage, each cell represents a tile:  
   
 ![image](https://user-images.githubusercontent.com/88102377/169651515-5b4b144c-2eea-4462-8a1e-27a5d8284408.png)
   
