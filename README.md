@@ -58,7 +58,8 @@
 <img align="left" src="https://user-images.githubusercontent.com/88102377/169848986-cd89ec1e-5d64-4879-99e2-55fa775e8ee9.png"><p align="left"> `12` </p> 
 <img align="left" src="https://user-images.githubusercontent.com/88102377/169848995-2349ae62-b0e3-4bae-bcc9-c3f7eb02c74b.png"><p align="left"> `13` </p> 
 <img align="left" src="https://user-images.githubusercontent.com/88102377/169849000-1867815a-9e9b-487c-b053-b086a992e04a.png"><p align="left"> `14` </p> 
-  
+
+<br/>
 > You can now edit the file as you like. When you're done just export the file as `.csv`  
 > Open it with any text editor and replace every `";"` with a blank space `" "`  
 > Finally replace the rows in the file `.map` relative to the desired stage and you're good to go!  
