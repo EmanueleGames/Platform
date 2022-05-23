@@ -73,7 +73,7 @@
 > You can now edit the file as you like, just make sure the dimensions stay `18 x 400` cells.  
 > Once you're done just export the sheet as a new `.csv` file.  
 > Open it with any text editor and replace every `";"` with a blank space `" "`  
-> Finally replace the rows in the file `.map` relative to the desired stage and you're good to go!  
+> Finally replace the rows in the file `stageX.map` relative to the desired stage and you're good to go!  
 
 <br/>
 <br/>
