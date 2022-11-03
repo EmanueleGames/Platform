@@ -20,7 +20,7 @@
 > Multiple source files. 1280x720 pixels resolution.  
 
 ## Features
-* Five scene game: title, game (stage 1-2-3), game over
+* Five scene game: Title, Game (Stage 1-2-3), Game Over
 * Single player mode, three stages with increasing difficulty
 * Left and Right Arrows for movement
 * Up Arrow for jumping
