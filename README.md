@@ -14,7 +14,7 @@
 > Platform 2D videogame.  
 > Multiple scene implemented with Object Oriented State Machine:  
 > inheritance, polymorphism, operator overloading.  
-> Time based movement (frame indipendent), multiple collision detection.  
+> Time based movement (frames indipendent), multiple collision detection.  
 > Parallax system for background.  
 > File writing and file reading to implement saves.  
 > Stages designed with customizable tiling.  
