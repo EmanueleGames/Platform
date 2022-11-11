@@ -31,7 +31,7 @@
 
 ## Save File
 * Make sure to extract the game in a folder where you can create files
-* The game autosaves  in a binary file at the start of each stage (not checkpoints!)
+* The game autosaves in a binary file at the start of each stage (not checkpoints!)
 * The info stored in the file are: starting stage, lives, coins and score
 * If you want to delete the savefile, you can find it in the `data` folder 
 
