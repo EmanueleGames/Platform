@@ -15,7 +15,7 @@
 > Multiple scene implemented with Object Oriented State Machine:  
 > inheritance, polymorphism, operator overloading.  
 > Time based movement (frames indipendent), multiple collision detection.  
-> Parallax system for background.  
+> Parallax scrolling system for background.  
 > File writing and file reading to implement saves.  
 > Stages designed with customizable tiling.  
 > Multiple source files. 1280x720 pixels resolution.  
