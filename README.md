@@ -11,7 +11,6 @@
 **Language:** &nbsp;&nbsp; C++  
 **Libraries:** &nbsp;&nbsp;&nbsp;&nbsp; SDL2 (Simple DirectMedia Layer)
 <br/>
-> Platform 2D videogame.  
 > Multiple scene implemented with Object Oriented State Machine:  
 > inheritance, polymorphism, operator overloading.  
 > Time based movement (frames indipendent), multiple collision detection.  
