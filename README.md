@@ -26,9 +26,7 @@
 * Single player mode, three stages with increasing difficulty
 * Left and Right Arrows for movement
 * Up Arrow for jumping
-* Basic music & sound effects
-* VSync enabled
-* Average FPS counter
+
 
 ## Save File
 * Make sure to extract the game in a folder where you can create files
