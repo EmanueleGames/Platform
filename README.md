@@ -11,13 +11,15 @@
 **Language:** &nbsp;&nbsp; C++  
 **Libraries:** &nbsp;&nbsp;&nbsp;&nbsp; SDL2 (Simple DirectMedia Layer)
 <br/>
-> Multiple scene implemented with Object Oriented State Machine:  
-> inheritance, polymorphism, operator overloading.  
-> Time based movement (frames indipendent), multiple collision detection.  
-> Parallax scrolling system for background.  
-> File writing and file reading to implement saves.  
-> Stages designed with customizable tiling.  
-> Multiple source files. 1280x720 pixels resolution.  
+
+> Multiple scenes implemented with Object-Oriented State Machine  
+> Inheritance, polymorphism, operator overloading  
+> Time based movement (framerate indipendence), multiple collision detection  
+> File writing and file reading to implement saves  
+> Stages designed with customizable tiling  
+> Sound effects and music. VSync active. Average FPS counter  
+> Multiple stages with parallax scrolling  
+
 
 ## Features
 * Five scene game: Title, Game (Stage 1-2-3), Game Over
